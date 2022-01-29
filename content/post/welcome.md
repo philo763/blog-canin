@@ -16,10 +16,10 @@ coverImage: img/hello-world.jpg
 metaAlignment: center
 showPagination: false
 showSocial: false
-draft: true
+draft: false
 ---
 
-Welcome to my blog!
+Welcome to my blog canin !
 
 Here, you can learn about projects I worked on and my interests.
 
