@@ -11,7 +11,6 @@ thumbnailImagePosition: left
 thumbnailImage: "img/prdw.jpg"
 showSocial: false
 showPagination: false
-draft: true
 ---
 
 Check out how my project about processing of data (*Vessels Coordinates*) in high volumetry (*Big Data Context*).
