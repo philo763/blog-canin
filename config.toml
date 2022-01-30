@@ -13,8 +13,8 @@
 # use grunt task `build` to synchronize assets
 
 baseURL = "https://philomene.vergnol.eu/"
-languageCode = "en-us"
-defaultContentLanguage = "en-us"
+languageCode = "fr-fr"
+defaultContentLanguage = "fr-fr"
 title = "Blog canin - Philomene Vergnoll"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
