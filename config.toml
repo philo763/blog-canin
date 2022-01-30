@@ -15,7 +15,7 @@
 baseURL = "https://philomene.vergnol.eu/"
 languageCode = "fr-fr"
 defaultContentLanguage = "fr-fr"
-title = "Blog canin - Philomene Vergnoll"
+title = "Le Blog Canin"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
@@ -32,10 +32,10 @@ canonifyurls = true
   archive = "archives"
 
 [author]
-  name = "Philomene Vergnol"
+  name = "Le Blog Canin"
   # bio = ""
   #job = "bg"
-  "location = "Le Havre, France"
+  #location = "Le Havre, France"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   # gravatarEmail = "contact@hvergnol.dev"
   # Your profile picture
