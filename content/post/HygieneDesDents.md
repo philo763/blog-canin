@@ -14,31 +14,35 @@ showPagination: true
 Des conseils simples et pratiques pour soigner l'hygiène dentaire de son chien, présentés par le Dr Charlotte Renard, Vétérinaire Conseil de Direct-Vet.
 <!--more-->
 
-# Context
-
 {% youtube XNeLzMfbnE %}
 
-`Cuizizine` is a cooking blog holding various delicious recipes. The goal is to *share easy recipes* that helps going zero-waste and reduce our consumption of processed food. Another goal is to *promote the vegan/vegetarian lifestyle* because most recipes will be vegan or at least vegetarian.
+La démonstration du brossage des dents est dans la vidéo ci-dessus. 
+Voici les explications résumées :
 
-<!-- # Screenshot
+# Comment brosser les dents de son chien ?
 
-![Homepage](http://static.vergnol.eu/img/cuizizine.png) -->
+### Matériel : 
+list ul
+-	Soit une brosse à dents pour humain, à poils doux, soit une brosse à dents pour chien
+-	Du dentifrice pour chien (facultatif)
+### Fréquence : 
+Tous les 2 à 3 jours, pendant 15-20 secondes.
+Mieux vaut le faire fréquemment et pas très longtemps, que rarement et un long brossage !
+### Procédé :
+Une main maintient le museau du chien par le haut, et lui ouvre la babine. L’autre main passe la brosse à dent mouillée ou avec du dentifrice sur chaque dent, à l’extérieur. 
 
-# Hugo.io
-
-The blog was made using the world’s fastest framework for building websites : [*hugo.io*](https://gohugo.io/).
-
-![Hugo.io](https://d33wubrfki0l68.cloudfront.net/30790d6888bd8af863fb2b5c33a7f337cdbda243/4e867/images/hugo-logo-wide.svg)
-
-## Theme
-
-I used the Hugo [*gochowdown*](https://github.com/seanlane/gochowdown) theme.
-
-&rightarrow; Link to the **github repo** of the Hugo *gochowdown* theme  :
-<center> [https://github.com/seanlane/gochowdown](https://github.com/seanlane/gochowdown). </center>
-
-# Website
-
-{{< alert success >}}
-Link to the blog *Cuizizine* (French) : [https://github.com/seanlane/gochowdown](https://cyberhippo.github.io/cuizizine/).
+{{< alert info >}}
+Pas besoin de rincer le dentifrice pour chien.
 {{< /alert >}}
+{{< alert info >}}
+L’action de mastiquer (sticks dentaires, peau de buffle, …) permettent d’éliminer une partie du tartre.
+{{< /alert >}}
+
+# Pourquoi lui brosser ?
+
+Cela permet d’éviter le *tartre* et la *mauvaise haleine*.
+La {{< hl-text blue >}}maladie parodontale{{< /hl-text >}} est une extension de la plaque dentaire sur la surface des dents, qui, en empirant, peut avoir de plus grosses conséquences : infection de la gencive, perte de la dent, infection dentaire, et même des infections cardiaques.
+Sur les images ci-dessous, on peut voir le tarte sur les dents, une inflammation de la gencive et même un début de déchaussement des dents.
+
+ajouter les images
+
