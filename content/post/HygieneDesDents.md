@@ -10,7 +10,7 @@ thumbnailImage: "img/brosser-dents.jpg"
 showSocial: false
 showPagination: true
 ---
-{% youtube watch?v=_XNeLzMfbnE&list=PLDy1LS3E166Oa3xP7I1Ay2lbhNN88UiVu&index=7 %}
+{% youtube _XNeLzMfbnE %}
 
 <!--more-->
 
