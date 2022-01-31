@@ -1,20 +1,17 @@
 ---
-title: "Cuizizine - Recipe blog"
-date: 2019-05-20
+title: "Hygiène des dents du chien"
+date: 2013-02-03
 categories:
-- website
+- Vidéo
 tags:
-- HTML
-- CSS
-- JS
-- Hugo
+- Soins
 thumbnailImagePosition: left
-thumbnailImage: "img/cuizizine.jpg"
+thumbnailImage: "img/brosser-dents.jpg"
 showSocial: false
-showPagination: false
+showPagination: true
 ---
+{% youtube watch?v=_XNeLzMfbnE&list=PLDy1LS3E166Oa3xP7I1Ay2lbhNN88UiVu&index=7 %}
 
-Check out the website `Cuizizine`, a blog about delicious vegetarian food recipe written using [*hugo.io*](https://gohugo.io/).
 <!--more-->
 
 # Context
