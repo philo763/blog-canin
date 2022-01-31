@@ -1,5 +1,5 @@
 ---
-title: "Hygiène des dents du chien"
+title: "Comment brosser les dents de son chien ?"
 date: 2013-02-03
 categories:
 - Vidéo
@@ -10,11 +10,13 @@ thumbnailImage: "img/brosser-dents.jpg"
 showSocial: false
 showPagination: true
 ---
-{% youtube XNeLzMfbnE %}
 
+Des conseils simples et pratiques pour soigner l'hygiène dentaire de son chien, présentés par le Dr Charlotte Renard, Vétérinaire Conseil de Direct-Vet.
 <!--more-->
 
 # Context
+
+{% youtube XNeLzMfbnE %}
 
 `Cuizizine` is a cooking blog holding various delicious recipes. The goal is to *share easy recipes* that helps going zero-waste and reduce our consumption of processed food. Another goal is to *promote the vegan/vegetarian lifestyle* because most recipes will be vegan or at least vegetarian.
 
