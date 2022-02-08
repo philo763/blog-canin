@@ -15,6 +15,8 @@ Des conseils simples et pratiques pour soigner l'hygiène dentaire de son chien,
 
 <!--more-->
 
+---
+
 {{< youtube _XNeLzMfbnE >}}
 
 # A retenir : 
