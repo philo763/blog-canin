@@ -14,7 +14,7 @@ showPagination: true
 Les pour et les contre d'une gamelle en hauteur pour son chien, expliqués par Dr Charlotte Renard, vétérinaire conseil pour Direct-Vet.
 
 <!--more-->
-
+---
 {{< youtube xkDu6rMapwI >}}
 
 #A retenir
