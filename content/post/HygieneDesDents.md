@@ -4,7 +4,7 @@ date: 2013-02-03
 categories:
 - Vidéo
 tags:
-- Soins
+- Santé
 thumbnailImagePosition: left
 thumbnailImage: "img/brosser-dents.jpg"
 showSocial: false
