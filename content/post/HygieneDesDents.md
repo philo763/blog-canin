@@ -16,7 +16,7 @@ Des conseils simples et pratiques pour soigner l'hygiène dentaire de son chien,
 
 {% youtube _XNeLzMfbnE %}
 
-#A retenir : 
+# A retenir : 
 {{< alert success >}}
 On brosse les dents de son chien plusieurs fois par semaine, avec une brosse à dents à poils souples, dans le but de prévenir le tarte, la mauvaise haleine et les maladies.
 {{< /alert >}}
