@@ -23,7 +23,7 @@ On brosse les dents de son chien plusieurs fois par semaine, avec une brosse à 
 
 La démonstration du brossage des dents est dans la vidéo ci-dessus. 
 
-# Comment brosser les dents de son chien ?
+## Comment brosser les dents de son chien ?
 
 ### Matériel : 
 -	Soit une brosse à dents pour humain, à poils doux, soit une brosse à dents pour chien
@@ -41,7 +41,7 @@ Pas besoin de rincer le dentifrice pour chien.
 L’action de mastiquer (sticks dentaires, peau de buffle, …) permettent d’éliminer une partie du tartre.
 {{< /alert >}}
 
-# Pourquoi lui brosser ?
+## Pourquoi lui brosser ?
 
 Cela permet d’éviter le *tartre* et la *mauvaise haleine*.
 La {{< hl-text blue >}}maladie parodontale{{< /hl-text >}} est une extension de la plaque dentaire sur la surface des dents, qui, en empirant, peut avoir de plus grosses conséquences : infection de la gencive, perte de la dent, infection dentaire, et même des infections cardiaques.
