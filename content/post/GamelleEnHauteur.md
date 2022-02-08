@@ -15,7 +15,7 @@ Les pour et les contre d'une gamelle en hauteur pour son chien, expliqués par D
 
 <!--more-->
 
-{% youtube xkDu6rMapwI %}
+{{< youtube xkDu6rMapwI >}}
 
 #A retenir
 {{< alert success >}}
