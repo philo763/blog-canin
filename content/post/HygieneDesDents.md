@@ -14,7 +14,7 @@ showPagination: true
 Des conseils simples et pratiques pour soigner l'hygiène dentaire de son chien, présentés par le Dr Charlotte Renard, Vétérinaire Conseil de Direct-Vet.
 <!--more-->
 
-{% youtube _XNeLzMfbnE %}
+{{< youtube _XNeLzMfbnE >}}
 
 # A retenir : 
 {{< alert success >}}
