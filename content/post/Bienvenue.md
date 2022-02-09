@@ -6,7 +6,7 @@ categories:
 keywords:
 autoThumbnailImage: false
 thumbnailImagePosition: right
-thumbnailImage: img/LeBlogCanin.png
+thumbnailImage: img/Logo.png
 coverImage: img/LeBlogCanin.png
 metaAlignment: center
 showPagination: false
