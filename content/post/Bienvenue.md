@@ -1,5 +1,5 @@
 ---
-title: "Bienvenue sur le Blog Canin"
+title: "Bienvenue"
 date: 2022-02-08
 categories:
 - home
