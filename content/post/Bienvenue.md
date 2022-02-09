@@ -20,17 +20,13 @@ Vous trouverez ici un tas de ressources sérieuses concernant votre chien, pour 
 
 <!--more-->
 
-Bienvenue sur le Blog Canin !
-
-Vous trouverez ici un tas de ressources sérieuses concernant votre chien, pour mieux le comprendre.
-
 ## Qui suis-je
 ...
 
 ## Les ressources sérieuses
 ...
 
-![Photo by cetteup on Unsplash](http://static.vergnol.eu/img/welcome-it.jpg)
+![Photo by cetteup on Unsplash](http://static.vergnol.eu/img/LeBlogCanin.jpg)
 
 <center>
 Photo by *cetteup*.
