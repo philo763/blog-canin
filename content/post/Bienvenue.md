@@ -20,7 +20,7 @@ Vous trouverez ici un tas de ressources sérieuses concernant votre chien, qui v
 
 <!--more-->
 
-## Qui suis-je
+### Qui suis-je
 Je m'appelle Philomène, je suis passionnée par les animaux et la relation que l'on entretient avec eux. J'ai un attachement particulier pour les chiens, comme beaucoup d'entre nous. L'arrivée de mon chien a bouleversé ma vie et mon quotidien. Grâce à lui, je me suis rendue compte à quelle point ma passion pour ces animaux était importante, et que j'avais envie d'en faire mon métier. Je suis donc en voie de me former au comportementalisme et à l'éducation canine. Je suis actuellement dogsitter, j'ai donc la chance d'avoir plusieurs poilus avec moi au quotidien. J'adore observer les points communs qui les unissent, et aussi ce qui les différencie : leur manière de jouer, de montrer de l'affection, leurs peurs, leurs envies, ... 
 
 ### Pourquoi ce blog
