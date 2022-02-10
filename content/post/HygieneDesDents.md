@@ -24,7 +24,7 @@ Des conseils simples et pratiques pour soigner l'hygiène dentaire de son chien,
 On brosse les dents de son chien plusieurs fois par semaine, avec une brosse à dents à poils souples, dans le but de prévenir le tartre, la mauvaise haleine et les maladies.
 {{< /alert >}}
 
-La démonstration du brossage des dents est dans la vidéo ci-dessus. 
+La démonstration du brossage des dents est dans la vidéo ci-dessus (à 2:23). 
 
 ## Comment brosser les dents de son chien ?
 
@@ -50,5 +50,5 @@ Cela permet d’éviter le *tartre* et la *mauvaise haleine*.
 La {{< hl-text blue >}}maladie parodontale{{< /hl-text >}} est une extension de la plaque dentaire sur la surface des dents, qui, en empirant, peut avoir de plus grosses conséquences : infection de la gencive, déchaussement et perte de la dent, infection dentaire, et même des infections cardiaques.
 Les images ci-dessous montrent des dents qui ont besoin d'être nettoyées et soignées.
 
-![dents](/src/img/dents.jpg)
-![parodontale](/src/img/parodontale.jpg)
+![dents](/static/img/dents.jpg)
+![parodontale](/static/img/parodontale.jpg)
