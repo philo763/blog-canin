@@ -50,5 +50,5 @@ Cela permet d’éviter le *tartre* et la *mauvaise haleine*.
 La {{< hl-text blue >}}maladie parodontale{{< /hl-text >}} est une extension de la plaque dentaire sur la surface des dents, qui, en empirant, peut avoir de plus grosses conséquences : infection de la gencive, déchaussement et perte de la dent, infection dentaire, et même des infections cardiaques.
 Les images ci-dessous montrent des dents qui ont besoin d'être nettoyées et soignées.
 
-{{< image src="[HygieneDesDents/images/dents.jpg]" >}} #title="dents"
-{{< image src="[HygieneDesDents/images/parodontale.jpg]" >}} #title="parodontale" 
+![dents](/HygieneDesDents/images/dents.jpg) #title="dents"
+![parodontale](/HygieneDesDents/images/parodontale.jpg) #title="parodontale" 
