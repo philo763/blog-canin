@@ -2,7 +2,7 @@
 title: "Bienvenue"
 date: 2022-02-08
 categories:
-- home
+- Accueil
 keywords:
 autoThumbnailImage: false
 thumbnailImagePosition: right
