@@ -19,7 +19,7 @@ Les pour et les contre d'une gamelle en hauteur pour son chien, expliqués par D
 
 # A retenir
 {{< alert danger >}}
-La gamelle surélevée est à proscrire pour les chiens de grande race, et n’apporte aucun bénéfices aux chiens de petite race.
+La gamelle surélevée est à proscrire pour les chiens de grande race, et n’apporte aucun bénéfice aux chiens de petite race.
 {{< /alert >}}
 
 ### La gamelle surélevée, c’est plus propre ?
@@ -29,15 +29,10 @@ Non, cela ne permet pas au chien d’arrêter de mettre des croquettes à côté
 ### C’est une meilleure position pour manger ?
 
 Non, aucune étude ne le prouve. Penser que si le chien est relevé pour manger, il sera mieux, est une croyance anthropomorphique. Comme tous les canidés, le chien est fait pour manger au sol.  
-Toutefois, pour certaines conditions médicales particulières, relever la gamelle peut aider le chien à manger et améliorer son confort, comme :
+Toutefois, pour certaines conditions médicales particulières, relever la gamelle peut aider le chien à manger et améliorer son confort, comme :  
 •	Mégaoesophage
 •	Douleurs cervicales
 
 ### Cela réduit le risque de dilatation - torsion de l’estomac ?
 
 Non, au contraire. Le fait de manger avec la gamelle en hauteur facilite le passage de la nourriture dans l’estomac. Cela fait manger le chien plus vite, augmentant donc le risque de DTE pour les grandes races de chiens.
-
-### Vocabulaire :
-
-- {{< hl-text blue >}}Anthropomorphisme{{< /hl-text >}} : Tendance à attribuer aux animaux et aux choses des réactions humaines.
-- {{< hl-text blue >}}DTE{{< /hl-text >}} : Dilatation – Torsion de l’Estomac, c’est l’estomac qui se dilate et se retourne. Il s’agit d’une urgence vitale car cette affection abdominale évolue très rapidement et est souvent mortelle. Plus d’infos sur le DTE [ici](https://vetissimo.fr/a/dilatation-torsion-estomac-chien/#:~:text=La%20dilatation%2Dtorsion%20de%20l,(cocker%2C%20beagle%E2%80%A6.)).
