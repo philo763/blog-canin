@@ -51,4 +51,5 @@ La {{< hl-text blue >}}maladie parodontale{{< /hl-text >}} est une extension de 
 Les images ci-dessous montrent des dents qui ont besoin d'être nettoyées et soignées.
 
 ![dents](/post/images/dents.jpg)
+<img src="parodontale.png" width="200" height="100">
 ![parodontale](/post/images/parodontale.jpg)
