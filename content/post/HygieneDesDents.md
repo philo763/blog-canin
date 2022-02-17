@@ -46,7 +46,7 @@ L’action de mastiquer (sticks dentaires, peau de buffle, …) permettent d’�
 
 ## Pourquoi lui brosser ?
 
-Cela permet d’éviter le *tartre*, la *mauvaise haleine*, et la *maladie parodontale*.  
+Cela permet d’éviter le *tartre*, la *mauvaise haleine*, et la ![*maladie parodontale*](https://www.leblogcanin.fr/2022/vocabulaire/).  
 
 Les images ci-dessous montrent des dents qui ont besoin d'être nettoyées et soignées.
 
