@@ -3,8 +3,10 @@ title: "La gamelle en hauteur pour le chien"
 date: 2017-06-30
 categories:
 - Vidéo
+- ["Sources" , "Direct-Vet"]
 tags:
 - Accessoires
+hierarchicalCategories: true
 thumbnailImagePosition: left
 thumbnailImage: "img/gamellehauteur.jpg"
 showSocial: false
