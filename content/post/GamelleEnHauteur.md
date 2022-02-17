@@ -6,7 +6,6 @@ categories:
 - ["Sources" , "Direct-Vet"]
 tags:
 - Accessoires
-hierarchicalCategories: true
 thumbnailImagePosition: left
 thumbnailImage: "img/gamellehauteur.jpg"
 showSocial: false
