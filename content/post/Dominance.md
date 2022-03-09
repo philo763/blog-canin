@@ -22,10 +22,10 @@ Retrouvez l'épisode 8 "La dominance" du podcast "Dans la tête des chiens" pré
 Un chien n’est pas intrinsèquement dominant. Il ne peut l’être que par rapport à un autre individu, à un moment donné.
 {{< /alert >}}
 {{< alert danger >}}
-Les chiens, même errants, ne vivent pas en meute, contrairement au loups sauvages qui vivent en meute familiale.
+La dominance inter-espèce n’existe pas, votre chien ne peut donc pas vouloir vous dominer, vous ne devez pas non plus le dominer.
 {{< /alert >}}
 {{< alert danger >}}
-La dominance inter-espèce n’existe pas, votre chien ne peut donc pas vouloir vous dominer, vous ne devez pas non plus le dominer.
+Les chiens, même errants, ne vivent pas en meute, contrairement au loups sauvages qui vivent en meute familiale.
 {{< /alert >}}
 
 
