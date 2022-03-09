@@ -35,7 +35,7 @@ La démonstration du brossage des dents est dans la vidéo ci-dessus (à 2:23).
 Tous les 2 à 3 jours, pendant 15-20 secondes.
 Mieux vaut lui brosser régulièrement pendant peu de temps, que de lui brosser rarement mais longtemps.
 ### Procédé :
-Une main maintient le museau du chien par le haut, et lui ouvre la babine. L’autre main passe la brosse à dent mouillée ou avec du dentifrice sur chaque dent, à l’extérieur. 
+Une main maintient le museau du chien par le haut, et lui ouvre la babine. L’autre main passe la brosse à dent mouillée ou avec du dentifrice sur chaque dent. 
 
 {{< alert info >}}
 Pas besoin de rincer le dentifrice pour chien.
