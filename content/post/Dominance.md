@@ -24,14 +24,14 @@ Retrouvez l'épisode 8 "La dominance" du podcast "Dans la tête des chiens" pré
 Un chien n’est pas intrinsèquement dominant. Il ne peut l’être que par rapport à un autre individu, à un moment donné.
 {{< /alert >}}
 {{< alert danger >}}
-La dominance inter-espèce n’existe pas, votre chien ne peut donc pas vouloir vous dominer, vous ne devez pas non plus le dominer.
+La dominance inter-espèce n’existe pas, votre chien ne peut donc pas vouloir vous dominer, vous ne devez pas non plus essayer de le dominer.
 {{< /alert >}}
 {{< alert danger >}}
 Les chiens, même errants, ne vivent pas en meute, contrairement au loups sauvages qui vivent en meute familiale.
 {{< /alert >}}
 
 
-## La dominance, une croyance
+## La dominance mal interprétée
 
 La croyance de la dominance du chien, que ce soit en relation [interspécifique](https://www.leblogcanin.fr/2022/vocabulaire/) ou [intraspécifique](https://www.leblogcanin.fr/2022/vocabulaire/) est bien ancrée chez beaucoup de gens.  
 On entend parfois ce genre de phrases :
@@ -47,12 +47,12 @@ Souvent, le propriétaire transpose cette croyance de dominance à leur propre r
 
 ## Alors c’est quoi la dominance ?
 
-On parle ici des relations de chien à chien :  
+En parlant ici des relations de chien à chien, voici quelques définitions de la dominance :  
 
-- {{< hl-text purple >}}(1981){{< /hl-text >}} : Les comportements de dominance et de subordination sont à mettre en perspective par rapport à ses relations, et non pas par rapport à l’individu en tant que tel. Un individu n’est pas dominant en soi, mais par rapport à un autre individu.  
-- {{< hl-text purple >}}(2005){{< /hl-text >}} : Bien que la personnalité soit largement indépendante du contexte et reste stable dans le temps, le statut de dominant dépend des partenaires en interaction.  
-- {{< hl-text purple >}}(2009){{< /hl-text >}} : La dominance est un terme descriptif des relations entre des couples d’individus, et en autre, l’utilisation de l’expression « chien dominant » n’a pas de sens dans la mesure où la dominance ne peut s’appliquer qu’à des relations entre des individus.  
--	{{< hl-text purple >}}(2019){{< /hl-text >}} : « La valeur de ressource subjective, combinée à l’apprentissage associatif et à la personnalité, peuvent expliquer les interactions entre les chiens plus simplement que la théorie de la dominance. De plus, si les chercheurs ne supposent pas l’existence d’une hiérarchie de dominance, ils en identifient rarement une. Par conséquent, une approche plus dynamique est nécessaire pour comprendre les organisations sociales.
+- {{< hl-text purple >}}(1981){{< /hl-text >}} : "Les comportements de dominance et de subordination sont à mettre en perspective par rapport à ses relations, et non pas par rapport à l’individu en tant que tel. Un individu n’est pas dominant en soi, mais par rapport à un autre individu."  
+- {{< hl-text purple >}}(2005){{< /hl-text >}} : "Bien que la personnalité soit largement indépendante du contexte et reste stable dans le temps, le statut de dominant dépend des partenaires en interaction."  
+- {{< hl-text purple >}}(2009){{< /hl-text >}} : "La dominance est un terme descriptif des relations entre des couples d’individus, et en autre, l’utilisation de l’expression « chien dominant » n’a pas de sens dans la mesure où la dominance ne peut s’appliquer qu’à des relations entre des individus."   
+-	{{< hl-text purple >}}(2019){{< /hl-text >}} : "La valeur de ressource subjective, combinée à l’apprentissage associatif et à la personnalité, peuvent expliquer les interactions entre les chiens plus simplement que la théorie de la dominance. De plus, si les chercheurs ne supposent pas l’existence d’une hiérarchie de dominance, ils en identifient rarement une. Par conséquent, une approche plus dynamique est nécessaire pour comprendre les organisations sociales."
 
 Ainsi, « dominant » n’est pas un trait de caractère, car ce n’est pas constant dans toutes les situations, ou dans toutes les relations. Le statut de dominant/subordonné n’est que le résultat d’une relation entre deux individus. **Une relation étant la somme de toutes les interactions entre ces deux individus.**
 
@@ -76,7 +76,7 @@ Même à l’état sauvage, les chiens ne se comportent pas comme les loups. Les
 On entend parfois :  
 > "Il faut s’imposer en tant que chef de meute".  
 
-En réalité, la hiérarchie se met en place lorsqu’il y a dispute de ressources. Mais les humains et les chiens n’utilisent pas les mêmes ressources, donc il ne peut pas y avoir de hiérarchie entre ces deux espèces. 
+En réalité, **la hiérarchie se met en place lorsqu’il y a dispute de ressources**. Mais les humains et les chiens n’utilisent pas les mêmes ressources, donc il ne peut pas y avoir de hiérarchie entre ces deux espèces. 
 Ce genre de propos est donc basé sur des modèles erronés, et est souvent utilisé pour justifier l’utilisation de techniques d’éducation coercitive. Cela amène à une claire incompréhension de son chien, et à des comportements potentiellement dangereux avec le besoin de dominer son chien, et donc d’avoir une relation asymétrique de contraintes. De plus, ces contraintes peuvent engendrer des réactions de peur, de stress ou d’agressivité chez le chien.  
 
 En conclusion, dépasser ces notions de dominance/soumission vous permettra d’améliorer votre relation avec votre chien. Voyez plutôt votre relation avec lui comme une balance d’interactions positives et négatives : **essayez de faire pencher la balance du bon côté**. Apprenez aussi à comprendre votre chien en étant attentif à son comportement de manière objective.
