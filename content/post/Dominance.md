@@ -15,6 +15,7 @@ showPagination: true
 Le concept de la dominance chez le chien est décrypté et déconstruit par Alice Mignot dans son podcast « Dans la tête des chiens ».
 <!--more-->
 ---
+{{< image src="/post/images/alicemignot.jpg" >}}
 Retrouvez l'épisode 8 "La dominance" du podcast "Dans la tête des chiens" présenté par Alice Mignot sur [Spotify](https://open.spotify.com/episode/631POHPOU3UUHhgfSXLmJl?si=a1cfffbe00784f06), ou sur son [blog](https://comportementcanin.blog/2021/04/29/episode-8-la-dominance/).
 
 # A retenir
