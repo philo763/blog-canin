@@ -33,9 +33,10 @@ Les chiens, même errants, ne vivent pas en meute, contrairement au loups sauvag
 
 ## La dominance, une croyance
 
-La croyance de la dominance du chien, que ce soit en relation [interspécifique](https://www.leblogcanin.fr/2022/vocabulaire/) ou [intraspécifique](https://www.leblogcanin.fr/2022/vocabulaire/) est bien ancrée chez beaucoup de gens. On entend parfois ce genre de phrases :
+La croyance de la dominance du chien, que ce soit en relation [interspécifique](https://www.leblogcanin.fr/2022/vocabulaire/) ou [intraspécifique](https://www.leblogcanin.fr/2022/vocabulaire/) est bien ancrée chez beaucoup de gens.  
+On entend parfois ce genre de phrases :
 
-> « Mon chien est dominant »
+> "Mon chien est dominant"
 
 Souvent, l’humain ne sait pas vraiment pourquoi son chien est dominant, et il s’est mis cela en tête après avoir observé différents comportements chez lui :
 -	Le chien n’écoute pas
@@ -46,7 +47,8 @@ Souvent, le propriétaire transpose cette croyance de dominance à leur propre r
 
 ## Alors c’est quoi la dominance ?
 
-On parle ici des relations de chien à chien :
+On parle ici des relations de chien à chien :  
+
 - {{< hl-text purple >}}(1981){{< /hl-text >}} : Les comportements de dominance et de subordination sont à mettre en perspective par rapport à ses relations, et non pas par rapport à l’individu en tant que tel. Un individu n’est pas dominant en soi, mais par rapport à un autre individu.  
 - {{< hl-text purple >}}(2005){{< /hl-text >}} : Bien que la personnalité soit largement indépendante du contexte et reste stable dans le temps, le statut de dominant dépend des partenaires en interaction.  
 - {{< hl-text purple >}}(2009){{< /hl-text >}} : La dominance est un terme descriptif des relations entre des couples d’individus, et en autre, l’utilisation de l’expression « chien dominant » n’a pas de sens dans la mesure où la dominance ne peut s’appliquer qu’à des relations entre des individus.  
@@ -57,7 +59,7 @@ Ainsi, « dominant » n’est pas un trait de caractère, car ce n’est pas con
 ## La hiérarchie de la dominance ?
 
 On entend aussi parfois :  
-> « Le chien vit dans un système hiérarchique comme les loups »  
+> "Le chien vit dans un système hiérarchique comme les loups" 
 
 Cette croyance provient d’une étude réalisée sur des loups, qui aurait démontré cette hiérarchie basée sur la dominance. 
 En réalité, le chercheur qui a réalisé cette étude est revenu dessus, en disant que l’étude a été menée sur des loups sélectionnés, dans un espace plus ou moins captif, ce qui n’est pas représentatif du loup sauvage. Dans ce cas précis, une organisation s’était mise en place au sein des loups, pas par choix mais de manière subie.
@@ -72,7 +74,7 @@ Même à l’état sauvage, les chiens ne se comportent pas comme les loups. Les
 ## Mon chien peut-il me dominer ?
 
 On entend parfois :  
-> "l faut s’imposer en tant que chef de meute".  
+> "Il faut s’imposer en tant que chef de meute".  
 
 En réalité, la hiérarchie se met en place lorsqu’il y a dispute de ressources. Mais les humains et les chiens n’utilisent pas les mêmes ressources, donc il ne peut pas y avoir de hiérarchie entre ces deux espèces. 
 Ce genre de propos est donc basé sur des modèles erronés, et est souvent utilisé pour justifier l’utilisation de techniques d’éducation coercitive. Cela amène à une claire incompréhension de son chien, et à des comportements potentiellement dangereux avec le besoin de dominer son chien, et donc d’avoir une relation asymétrique de contraintes. De plus, ces contraintes peuvent engendrer des réactions de peur, de stress ou d’agressivité chez le chien.  
