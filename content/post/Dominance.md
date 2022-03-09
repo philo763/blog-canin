@@ -3,7 +3,6 @@ title: "La dominance"
 date: 2021-04-01
 categories:
 - Podcast
-- ["Sources" , "Dans la tête des chiens"]
 tags:
 - Comportement
 thumbnailImagePosition: left
